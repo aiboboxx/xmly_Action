@@ -4,3 +4,4 @@
 
 ## 喜马拉雅极速版专属环境变量[点击查看](backup/xmly.md)
 
+www.aiboboxx.ml
